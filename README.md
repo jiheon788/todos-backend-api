@@ -1,6 +1,6 @@
 # Todos Backend API Boilerplate
 
-- 원티드 프리온보딩 제공
+- [원티드 프리온보딩](https://www.wanted.co.kr/events/pre_challenge_fe_5) 제공
 
 ## ⚠ 참고 사항
 
